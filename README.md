@@ -1,2 +1,2 @@
 # Sal
-untuk kelas PBO
+Untuk kedepannya
